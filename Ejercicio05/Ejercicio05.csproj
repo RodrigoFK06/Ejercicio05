@@ -55,6 +55,7 @@
     </Compile>
     <Compile Include="ListaSimple.cs" />
     <Compile Include="Nodo.cs" />
+    <Compile Include="PNIGA.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="raa.cs" />
